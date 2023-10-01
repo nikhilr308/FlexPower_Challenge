@@ -1,0 +1,7 @@
+id,quantity,price,side,strategy
+trade_1,5,20.0,buy,strategy_1
+trade_2,17,10.0,sell,strategy_1
+trade_3,15,8.0,buy,strategy_1
+trade_4,13,35.0,sell,strategy_2
+trade_5,23,11.0,sell,strategy_2
+trade_6,8,20.0,buy,strategy_2
